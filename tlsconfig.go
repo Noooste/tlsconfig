@@ -1,7 +1,9 @@
 // Lightweight tls configuration package.
 package tlsconfig
 
-import "crypto/tls"
+import (
+	"github.com/Noooste/utls"
+)
 
 // TLSModeServer a type to define server tls config
 type TLSModeServer string
