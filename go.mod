@@ -3,7 +3,7 @@ module github.com/Noooste/tlsconfig
 go 1.19
 
 require (
-	github.com/Noooste/fhttp v1.0.7
+	github.com/Noooste/fhttp v1.0.6
 	github.com/foomo/tlsconfig v0.0.0-20180418120404-b67861b076c9
 )
 
